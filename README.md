@@ -6,7 +6,7 @@ This project is an automated safety system designed to detect hazardous gas leak
 ## ✨ Features
 * **Real-time Detection:** Continuously monitors for smoke, gas (LPG, Methane, etc.), and fire.
 * **Visual Warning:** LEDs indicate system status (Safe, Gas Detected, Fire Detected).
-* **Automated Safety:** (Optional: Add if your code does this) Can automatically shut off gas valves or turn on exhaust fans.
+* **Automated Safety Future improvement:** Can automatically shut off gas valves or turn on exhaust fans.
 
 ## 🛠️ Hardware Required
 * Microcontroller Atmega32
