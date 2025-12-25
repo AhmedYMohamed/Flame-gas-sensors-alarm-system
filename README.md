@@ -9,7 +9,7 @@ This project is an automated safety system designed to detect hazardous gas leak
 * **Automated Safety:** (Optional: Add if your code does this) Can automatically shut off gas valves or turn on exhaust fans.
 
 ## 🛠️ Hardware Required
-* Microcontroller (e.g., Arduino Uno, ESP32, or Raspberry Pi)
+* Microcontroller Atmega32
 * Flame Sensor (e.g., KY-026 or IR Flame Sensor)
 * Gas Sensor (e.g., MQ-2, MQ-5, or MQ-6)
 * LEDs (Red for alert, Green for power)
